@@ -1,11 +1,6 @@
 # PhoneSploit
 #### A tool for remote ADB exploitation in Python3.
 
-![STARS](https://img.shields.io/github/stars/aerosol-can/PhoneSploit?style=social) 
-![FORKS](https://img.shields.io/github/forks/aerosol-can/PhoneSploit?style=social)
-![COMMIT](https://img.shields.io/github/last-commit/aerosol-can/PhoneSploit)
-![SIZE](https://img.shields.io/github/repo-size/aerosol-can/PhoneSploit)
-
 # Features
 * Access Shell
 * Screen record victim device
@@ -28,15 +23,7 @@
 * Get Battery Status
 * Get Current Activity
 
-# Author's Note
-
-#### Don't do Bad Things ya Guys :kissing::v:
-
-> You can find open ports on the Internet [here at Shodan](https://www.shodan.io/search?query=android+debug+bridge+product%3A”Android+Debug+Bridge”)
-
-# YouTube Videos
-<br>
-<br>
+# MADE MY RAZYN A.K.A RYZEN
 
 ### Connecting device via ADB
 
@@ -52,7 +39,7 @@
 
 # HOW TO INSTALL ON WINDOWS
 ```
-git clone https://github.com/aerosol-can/PhoneSploit
+git clone https://github.com/RaZyN12/PHONESPLOIT
 ```
 extract adb.rar to the phonesploit directory 
 ```
@@ -64,7 +51,7 @@ phonesploit.py
 # HOW TO INSTALL ON Linux
 ```
 apt install adb
-git clone https://github.com/aerosol-can/PhoneSploit
+git clone https://github.com/RaZyN12/PHONESPLOIT
 cd PhoneSploit
 pip3 install colorama
 python3 phonesploit.py
@@ -74,7 +61,7 @@ python3 phonesploit.py
 First of all, install [brew](https://brew.sh)
 ```
 brew install git python@3
-git clone https://github.com/aerosol-can/PhoneSploit
+git clone https://github.com/RaZyN12/PHONESPLOIT
 cd PhoneSploit
 python3 -m pip install colorama
 python3 phonesploit.py
