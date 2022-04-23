@@ -35,6 +35,7 @@ git clone https://github.com/RaZyN12/PHONESPLOIT
 ```
 extract adb.rar to the phonesploit directory 
 ```
+Pkg install openssl-tool
 cd PhoneSploit
 pip install colorama
 phonesploit.py
