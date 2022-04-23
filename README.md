@@ -25,14 +25,6 @@
 
 # MADE MY RAZYN A.K.A RYZEN
 
-### Connecting device via ADB
-
-### Exploiting ADB via PhoneSploit
-
-<br>
-
-[![Exploiting ADB via PhoneSploit](https://img.youtube.com/vi/ONHxcGMdkM0/0.jpg)](http://www.youtube.com/watch?v=ONHxcGMdkM0)
-
 <br>
 <br>
 <br>
