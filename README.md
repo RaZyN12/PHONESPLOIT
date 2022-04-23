@@ -11,11 +11,7 @@ Pkg install openssl-tool
 
 Pkg install wget -y
 
-Pip install colorama 
-
-Git clone https://github.com/MasterDevX/Termux-ADB
-
-Cd Termux-ADB
+Pip install colorama
 
 Chmod 777 InstallTools.sh
 
