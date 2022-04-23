@@ -13,6 +13,8 @@ Pkg install wget -y
 
 Pip install colorama
 
+https://github.com/MasterDevX/Termux-ADB
+
 Chmod 777 InstallTools.sh
 
 Bash InstallTools.sh
